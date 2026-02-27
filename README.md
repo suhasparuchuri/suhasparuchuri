@@ -4,13 +4,13 @@ I'm a software engineer with a passion for building scalable and efficient syste
 
 ## What I'm good at
 
-- **C++** — my go-to language for performance-critical work
-- **Data Structures & Algorithms** — strong foundations in problem solving
-- **Object-Oriented Programming** — clean, maintainable design
-- **Low-Level Design** — building robust class hierarchies and APIs
-- **High-Level Design** — architecting systems that scale
-- **Distributed Systems** — MapReduce, concurrency, fault tolerance
-- **AI/ML** — search algorithms, reinforcement learning, machine learning
+- **C++** : my go-to language for performance-critical work
+- **Data Structures & Algorithms** : strong foundations in problem solving
+- **Object-Oriented Programming** : clean, maintainable design
+- **Low-Level Design** : building robust class hierarchies and APIs
+- **High-Level Design** : architecting systems that scale
+- **Distributed Systems** : MapReduce, concurrency, fault tolerance
+- **AI/ML** : search algorithms, reinforcement learning, machine learning, AI Agents, NLP
 
 ## Featured Projects
 
