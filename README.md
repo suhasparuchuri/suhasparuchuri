@@ -16,7 +16,8 @@ I'm a software engineer with a passion for building scalable and efficient syste
 
 | Project | Description |
 |---------|-------------|
-| [Social Media Data Collection Pipeline](https://github.com/suhasparuchuri/Social-Media-Data-Collection-Pipeline) | Large-scale continuous data collection system for Reddit and 4chan during 2024 U.S. Presidential Elections |
+| [Social Media Data Collection Pipeline](https://github.com/suhasparuchuri/Social-Media-Data-Collection-Pipeline) | Designed and implemented a scalable data pipeline to continuously collect and process Reddit and 4chan data during the 2024 U.S. Presidential Elections
+ |
 | [Rubik's Cube Solver](https://github.com/suhasparuchuri/RubiksCubeSolver) | Solves a 3x3 cube using DFS, BFS, IDDFS, and IDA* with pattern database heuristics in C++ |
 | [MapReduce](https://github.com/suhasparuchuri/mapreduce) | A MapReduce framework in C for parallel processing of large datasets |
 | [Pac-Man AI](https://github.com/suhasparuchuri/pacman) | AI agents using search, adversarial search, Q-Learning, and Perceptron |
